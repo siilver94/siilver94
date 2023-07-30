@@ -1,7 +1,10 @@
 ### 반갑습니다! 👋
-[![Tech Blog Badge](https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=Tesla&logoColor=white&link=https://allensdatablog.tistory.com/)](https://allensdatablog.tistory.com/) 
 
 </br>
+
+[![Tech Blog Badge](https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=Tesla&logoColor=white&link=https://allensdatablog.tistory.com/)](https://allensdatablog.tistory.com/) 
+
+
 
 - 👯 저는 현 머신비전 개발자로써 다양한 프로젝트를 소개하는 GitHub과 블로그를 운영하고 있어요
 - 📫 저는 꾸준히 배우고 성장해가며 빠르게 무언가를 이뤄내는 것을 좋아해요
