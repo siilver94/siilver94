@@ -17,15 +17,15 @@
 
 ### 언어 및 도구
 
-<code><img height="30" 
+<code><img height="25" 
 src = https://github.com/siilver94/siilver94/assets/57824945/fb795b31-5b5b-4dbd-b60c-47b602ca756d></code>
-<code><img height="30" 
+<code><img height="25" 
 src = https://github.com/siilver94/siilver94/assets/57824945/508be887-5bb3-430d-a911-ce9fe3659415></code>
-<code><img height="30" 
+<code><img height="25" 
 src = https://github.com/siilver94/siilver94/assets/57824945/8094e28e-62d8-4f2c-9784-73d01d3d7a72></code>
-<code><img height="30" 
+<code><img height="25" 
 src = https://github.com/siilver94/siilver94/assets/57824945/3092d19d-c84d-4ad6-bdfe-50406d38e8b0></code>
-<code><img height="30" 
+<code><img height="25" 
 src = https://github.com/siilver94/siilver94/assets/57824945/b1d3540c-ee3c-47e9-a827-863d7710b343></code>
-<code><img height="30" 
+<code><img height="25" 
 src = https://github.com/siilver94/siilver94/assets/57824945/53d9cb0f-84e4-4086-b213-174d73baa9d4></code>
